@@ -2,10 +2,19 @@ body {
   max-width: 100%;
   padding-top: 20px;
   text-align: center;
+  background-color: rgb(245, 203, 187);
 }
 
 img {
   max-width: 100%;
   width: 400px;
   height: 400px;
+}
+.btn-primary {
+  background-color: rgb(250, 125, 76);
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: rgb(250, 123, 140);
 }
